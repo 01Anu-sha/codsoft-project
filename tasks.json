@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Attend a meeting",
+        "completed": true
+    },
+    {
+        "task": "complete the project",
+        "completed": false
+    },
+    {
+        "task": "Improve communication skill",
+        "completed": false
+    }
+]
